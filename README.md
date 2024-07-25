@@ -7,8 +7,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=oogeuehh&show_icons=true&theme=transparent)
 
+## My Page View
 ![Visitor Count](https://profile-counter.glitch.me/oogeuehh/count.svg)
 
+## My Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oogeuehh&layout=compact&theme=tokyonight)
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=oogeuehh&theme=dracula)
